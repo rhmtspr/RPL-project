@@ -7,7 +7,7 @@
 ```
 pip install -r requirements.txt
 ```
-3. create databases in phpmyadmin, the name is the same as in the settings.py (car_rental).
+3. create databases in phpmyadmin, the name should be the same as in the settings.py (car_rental).
 4. run mysql and apache in xampp.
 5. make migrations
 ```
